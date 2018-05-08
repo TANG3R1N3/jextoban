@@ -177,7 +177,7 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -188,7 +188,7 @@
             "showArrow": true,
             "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/students02-1063x485.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -198,7 +198,7 @@
             },
             "overlay": true,
             "overlayColor": "#ccc",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0"
           },
           "media": {
             "image": {
