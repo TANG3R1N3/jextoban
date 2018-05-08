@@ -148,7 +148,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/student01-606x303.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
