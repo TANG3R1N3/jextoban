@@ -44,7 +44,7 @@
             "logo": true,
             "showBrand": true,
             "hideButtons": true,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#2b0680",
