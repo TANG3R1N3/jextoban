@@ -24,7 +24,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 11,
+    "uniqCompNum": 12,
     "versionPublish": "4.7.2"
   },
   "pages": {
@@ -133,45 +133,42 @@
           "_anchor": "ext_menu-9"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            ".lead P": {
-              "color": "#fac51c",
-              "font-size": "19px"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/student01-2-606x303.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/visit01-1069x480.png",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "<br><br>JEXTOBAN SECONDARY SCHOOL",
-          "text": "<p>.....a value driven secondary school</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "title": "JEXTOBAN SECONDARY SCHOOL",
+          "text": "...a value driven secondary school",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-8"
+          "_name": "header1",
+          "_anchor": "header1-b",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "header2",
@@ -180,7 +177,7 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -221,8 +218,8 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH YOUTUBE VIDEO",
-          "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
+          "title": "...a value &nbsp;driven secondary school",
+          "text": "Here we'll have some information which will make sense.....however, not at the moment.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"

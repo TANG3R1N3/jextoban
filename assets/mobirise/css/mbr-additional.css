@@ -734,20 +734,16 @@ h6,
 #ext_menu-9 A {
   font-size: 9px;
 }
-#msg-box8-8 .mbr-section-title,
-#msg-box8-8 p {
-  color: #fff;
+#header1-b .mbr-section-title {
+  font-size: 32px;
+  color: #ffffff;
 }
-#msg-box8-8 .mbr-section-title {
-  font-size: 36px;
-}
-#msg-box8-8 .lead P {
-  color: #fac51c;
-  font-size: 19px;
+#header1-b .mbr-section-lead {
+  color: #ffffff;
 }
 #header6-a .mbr-section-title {
   color: #28262b;
 }
 #header6-a .mbr-section-text {
-  color: #565656;
+  color: #ffffff;
 }
