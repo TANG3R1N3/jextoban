@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#0c2c7c",
-        "#262626"
+        "#262626",
+        "#7e64bc"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -51,13 +52,13 @@
               "font-size": "16px"
             },
             ".navbar-toggler": {
-              "color": "#2b0680"
+              "color": "#7e64bc"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#2b0680"
+              "background-color": "#7e64bc"
             },
             ".link, .dropdown-item": {
-              "color": "#2b0680"
+              "color": "#7e64bc"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -78,7 +79,7 @@
               "background": "#fac51c"
             },
             ".bg-color.transparent .link": {
-              "color": "#2b0680",
+              "color": "#7e64bc",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -88,7 +89,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#ffffff!important"
             }
           },
           "_params": {
@@ -101,7 +102,7 @@
             "bgColor": "#fac51c",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#2b0680",
+            "fontColor": "#7e64bc",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vision &amp; Mission Statement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Founder's Message</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;Principal's Message/Lagos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"> Principal's Message/Ogun</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">School Song</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Guvernance/Quality Assurance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Staff/Team</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilities</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Curriculum</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ADMISSIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ALUMNI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CAREERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -119,7 +120,7 @@
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#2b0680",
+              "color": "#7e64bc",
               "active": true
             }
           },
