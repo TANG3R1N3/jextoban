@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -671,7 +672,7 @@ h6,
 }
 #menu-c .navbar-caption {
   color: #ffffff;
-  font-size: 14px;
+  font-size: 16px;
 }
 #menu-c .navbar-toggler {
   color: #ffffff;
@@ -729,15 +730,25 @@ h6,
   color: #fac51c!important;
 }
 #header1-b .mbr-section-title {
-  font-size: 32px;
+  font-size: 30px;
   color: #ffffff;
 }
 #header1-b .mbr-section-lead {
   color: #ffffff;
+  font-size: 36px;
 }
-#header6-a .mbr-section-title {
-  color: #28262b;
+#extHeader7-d H3 {
+  font-size: 36px;
+  font-family: 'Lora', serif;
 }
-#header6-a .mbr-section-text {
-  color: #000000;
+#extHeader11-e SPAN {
+  font-size: 36px;
+}
+#social-buttons4-g .mbr-section-title,
+#social-buttons4-g .btn-social {
+  color: #fff;
+}
+#extFooter1-f .mbr-section-title {
+  font-size: 24px;
+  color: #ffffff;
 }

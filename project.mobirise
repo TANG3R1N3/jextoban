@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.2",
-    "uniqCompNum": 13,
+    "uniqCompNum": 17,
     "versionPublish": "4.7.2"
   },
   "pages": {
@@ -47,7 +47,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "14px"
+              "font-size": "16px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -149,7 +149,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "JEXTOBAN SECONDARY SCHOOL",
+          "title": "",
           "text": "...a value driven secondary school",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -159,33 +159,23 @@
           "_anchor": "header1-b",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px",
+              "font-size": "30px",
               "color": "#ffffff"
             },
             ".mbr-section-lead": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             }
           }
         },
         {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
             "showArrow": true,
-            "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/students02-1063x485.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/student01-606x303.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -194,35 +184,158 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ccc",
-            "overlayOpacity": "0"
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+          "title": "You are welcome to contact us",
+          "text": "Please fill out the contacy form below and we will reply &nbsp;shortly",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "button": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "battyboomboom@hotmail.se",
+            "alerts": {
+              "success": "Thanks for filling out form!"
             },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=iiK7ZFJodwY",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email"
+              },
+              "name": {
+                "title": "Name",
+                "customTitle": "Your Full Name"
+              }
             }
           },
-          "title": "...a value &nbsp;driven secondary school",
-          "text": "Here we'll have some information which will make sense.....however, not at the moment.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader7",
+          "_anchor": "extHeader7-d",
+          "_styles": {
+            "H3": {
+              "font-size": "36px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "animText1": "NEXT TERM",
+            "animText2": "FOR",
+            "animText3": "NEXT TERM",
+            "typeSpeed": "20",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/basket-797x369.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "ADMISSIONS&nbsp;<br> FOR",
+          "text": "Full-screen intro with \"typed\" text effect. Enter in any string, and watch it type at the speed you have set, backspace what it is typed, and begin a new string. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">APPLY NOW</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader11",
+          "_anchor": "extHeader11-e",
+          "_styles": {
+            "SPAN": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header6",
-          "_anchor": "header6-a"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-g"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showLogo": true,
+            "progress": 50,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFooter1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#262626",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "list": "<ul><li><a href=\"\">Bootstrap 4</a></li><li><a href=\"\">Responsive</a></li><li><a href=\"\">Web Fonts</a></li><li><a href=\"\">Unlimited Sites</a></li><li><a href=\"\">Google</a></li><li><a href=\"\">Node</a></li></ul>",
+          "title": "JEXTOBAN SECONDARY SCHOOL",
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@-blocks/components/_images/img_extFooter1.png"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "linkInNewWindow": false,
+              "name": "home",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "color": "#ffffff",
+              "active": true
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
