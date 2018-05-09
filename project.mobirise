@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise3",
       "styling": {
-        "primaryColor": "#7e64bc",
+        "primaryColor": "#fac51c",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -52,13 +52,13 @@
               "font-size": "16px"
             },
             ".navbar-toggler": {
-              "color": "#7e64bc"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#7e64bc"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#7e64bc"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -70,16 +70,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#deaa05"
+              "background": "#081b4e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#fac10d!important"
+              "background": "#0b276e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#fac51c"
+              "background": "#0c2c7c"
             },
             ".bg-color.transparent .link": {
-              "color": "#7e64bc",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -89,7 +89,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "#fac51c!important"
             }
           },
           "_params": {
@@ -99,10 +99,10 @@
             "sticky": false,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#fac51c",
+            "bgColor": "#0c2c7c",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#7e64bc",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ABOUT US</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Vision &amp; Mission Statement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Founder's Message</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;Principal's Message/Lagos</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\"> Principal's Message/Ogun</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">School Song</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Guvernance/Quality Assurance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Staff/Team</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">NEWS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Facilities</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Curriculum</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ADMISSIONS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">GALLERY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ALUMNI</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CAREERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">New Item</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
@@ -120,7 +120,7 @@
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#7e64bc",
+              "color": "#fac51c",
               "active": true
             }
           },
@@ -233,7 +233,7 @@
             "showButtons": true,
             "showArrow": true,
             "animText1": "NEXT TERM",
-            "animText2": "FOR",
+            "animText2": "",
             "animText3": "NEXT TERM",
             "typeSpeed": "20",
             "bgImageRadio": true,
