@@ -735,14 +735,17 @@ h6,
 }
 #header1-b .mbr-section-lead {
   color: #ffffff;
-  font-size: 36px;
+  font-size: 32px;
 }
 #extHeader7-d H3 {
-  font-size: 36px;
+  font-size: 24px;
   font-family: 'Lora', serif;
 }
+#extHeader7-d P {
+  font-size: 22px;
+}
 #extHeader11-e SPAN {
-  font-size: 36px;
+  font-size: 24px;
 }
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
