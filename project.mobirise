@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-08_0834",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -740,7 +740,7 @@
           },
           "title": "NEWS HEADLINE&nbsp;",
           "text": "Undertext with all infprmation about the latest new.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Back to Home</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Back to Home</a>",
           "_tags": [
             "Theme"
           ],
