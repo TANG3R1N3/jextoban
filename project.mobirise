@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JaxtobanTest",
-    "currentPage": "page6.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -24,12 +24,13 @@
         "#0b0fb4",
         "#dfa03c",
         "#e4aa61",
-        "#2e2e2e"
+        "#2e2e2e",
+        "#5e5546"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 93,
+    "uniqCompNum": 98,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -144,34 +145,76 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/star01-1231x551.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#dfa03c",
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3d3d3d",
+            "bgText": "JEXTOBAN SECONDARY SCHOOL",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#ffffff",
+            "bgTextSize": "100",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
           },
-          "title": "JEXTOBAN SECONDARY SCHOOL",
-          "text": "......a value driven secondary school",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "title": "",
+          "text": "....a value driven school",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "alias": "mobirise3-blocks/components",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "header1",
-          "_anchor": "header1-4",
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-2o",
           "_styles": {
-            ".mbr-section-title": {
+            "P": {
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/student01-606x303.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<br><br><br>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2p"
         },
         {
           "_inherit": "features1",

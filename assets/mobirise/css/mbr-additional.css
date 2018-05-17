@@ -730,7 +730,14 @@ h6,
 #ext_menu-3 A {
   font-size: 14px;
 }
-#header1-4 .mbr-section-title {
+#extMsg-box4-2o P {
+  font-size: 36px;
+}
+#msg-box8-2p .mbr-section-title,
+#msg-box8-2p p {
+  color: #fff;
+}
+#msg-box8-2p .mbr-section-title {
   font-size: 36px;
 }
 #features2-6 .striped .mbr-cards-col:nth-child(2n+1) {
