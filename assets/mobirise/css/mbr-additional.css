@@ -816,10 +816,12 @@ h6,
 }
 #header1-g .mbr-section-title {
   font-size: 36px;
+  color: #000000;
 }
 #header1-g .mbr-section-lead {
   text-align: left;
   font-size: 18px;
+  color: #000000;
 }
 #msg-box8-21 .mbr-section-title,
 #msg-box8-21 p {
@@ -1014,10 +1016,13 @@ h6,
   font-size: 24px;
 }
 #form1-2h .form-control-label {
-  color: #232323;
+  color: #ffffff;
 }
 #form1-2h .mbr-section-title {
   font-size: 24px;
+}
+#form1-2h SMALL {
+  color: #000000;
 }
 #social-buttons4-v .mbr-section-title,
 #social-buttons4-v .btn-social {

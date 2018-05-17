@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JaxtobanTest",
-    "currentPage": "page7.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -29,7 +29,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 92,
+    "uniqCompNum": 93,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -477,7 +477,7 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#e4aa61"
           },
           "title": "About Us",
           "meta": "",
@@ -498,7 +498,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/students-1034x709.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#dfa03c",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -516,11 +516,13 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "text-align": "left",
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#000000"
             }
           },
           "_anchor": "header1-g"
@@ -1405,14 +1407,14 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#232323",
+            "labelsColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e4aa61",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1454,10 +1456,13 @@
           "_anchor": "form1-2h",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "font-size": "24px"
+            },
+            "SMALL": {
+              "color": "#000000"
             }
           }
         },
@@ -1645,7 +1650,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e4aa61",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1905,7 +1910,7 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#e4aa61"
           },
           "title": "Student &amp; Academic Results",
           "meta": "",
@@ -1931,7 +1936,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#e4aa61",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2266,7 +2271,7 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#e4aa61"
           },
           "title": "Our Schools",
           "meta": "",
