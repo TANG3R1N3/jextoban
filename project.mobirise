@@ -1932,10 +1932,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/basket-797x369.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -2021,6 +2021,12 @@
             ".iconbox": {
               "background-color": "#0b0fb4",
               "border-color": "#0b0fb4"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "title1": "Results Link",
