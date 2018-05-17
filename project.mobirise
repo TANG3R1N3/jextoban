@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JaxtobanTest",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -30,7 +30,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.7.1",
-    "uniqCompNum": 98,
+    "uniqCompNum": 100,
     "versionPublish": "4.7.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x128.png",
@@ -144,37 +144,61 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 2,
+            "showButtons": true,
+            "showArrow": true,
+            "inverse": false,
+            "imageSize": 60,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
-            "parallax": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extMsg-box1_bg.jpg",
+            "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d3d3d",
-            "bgText": "JEXTOBAN SECONDARY SCHOOL",
+            "bgColor": "#dfa03c",
+            "bgText": "a value driven secondary school........................",
             "bgTextStyle": "Montserrat",
-            "bgTextColor": "#ffffff",
-            "bgTextSize": "100",
+            "bgTextColor": "#efefef",
+            "bgTextSize": "50",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
           },
-          "title": "",
-          "text": "....a value driven school",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">GET FREE TRIAL</a>",
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/students02-1063x485.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "JEXTOBAN SECONDARY SCHOOL",
+          "text": "<br><br>Full-screen intro with animated text background. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam ducimus reiciendis quaerat architecto. Molestias enim sequi, et alias ipsam voluptate!",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
+          "bgTextP": "ANIMATED TEXT BACKGROUND",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extMsg-box4",
-          "_anchor": "extMsg-box4-2o",
+          "_name": "extHeader12",
+          "_anchor": "extHeader12-2r",
           "_styles": {
-            "P": {
+            "H3": {
+              "text-align": "left",
               "font-size": "36px"
             }
           }
