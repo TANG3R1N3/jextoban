@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JaxtobanTest",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -599,7 +599,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JEXTOBAN SECONDARY SCHOOL",
-          "text": "<p>...a value driven secondary school</p>",
+          "text": "<p>.<i>..a value driven secondary school</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1438,7 +1438,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JEXTOBAN SECONDARY SCHOOL",
-          "text": "<p>...a value driven secondary school</p>",
+          "text": "<p><i>...a value driven secondary school</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -1761,7 +1761,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JEXTOBAN SECONDARY SCHOOL",
-          "text": "<p>...a value driven secondaty school</p>",
+          "text": "<p>..<i>.a value driven secondary school</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -2466,7 +2466,7 @@
             "overlayOpacity": 0.5
           },
           "title": "JEXTOBAN SECONDARY SCHOOL",
-          "text": "<p>...a value driven secondary school</p>",
+          "text": "<p><i>...a value driven secondary school</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
